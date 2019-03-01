@@ -1,0 +1,189 @@
+{
+  "googlevideos": [
+    {
+      "category": "3D Movies",
+      "videos": [{
+        "description": "Big Buck Bunny, Sunflower version 3D",
+        "sources": ["http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_60fps_stereo_abl.mp4"],
+        "card": "file:///mnt/sdcard/Oculus TV Sample Videos/Movie Trailers/Deadpool.jpg",
+        "title": "Big Buck Bunny(3D)",
+        "studio": "Blender Foundation"
+      }]
+    },
+    {
+    "category": "Movie Trailers",
+    "videos": [{
+      "description": "Hold onto your chimichangas, folks. From the studio that brought you all 3 Taken films comes the block-busting, fourth-wall-breaking masterpiece about Marvel Comics’ sexiest anti-hero! Starring God’s perfect idiot Ryan Reynolds and a bunch of other actors, DEADPOOL is a giddy slice of awesomeness packed with more twists than Deadpool’s enemies’ intestines and more action than prom night. Amazeballs!",
+      "sources": ["file:///mnt/sdcard/Oculus TV Sample Videos/Movie Trailers/Deadpool.mp4"],
+      "card": "file:///mnt/sdcard/Oculus TV Sample Videos/Movie Trailers/Deadpool.jpg",
+      "title": "Deadpool",
+      "studio": "20th Century Fox"
+    }, {
+      "description": "When Jake discovers clues to a mystery that spans alternate realities and times, he uncovers a secret refuge known as Miss Peregrine's Home for Peculiar Children. As Jake learns about the residents and their unusual abilities, he realizes that safety is an illusion, and danger lurks in the form of powerful, hidden enemies. Jake must figure out what is real, who can be trusted, and who he really is.",
+      "sources": ["file:///mnt/sdcard/Oculus TV Sample Videos/Movie Trailers/Miss Peregrines Home for Peculiar Children.mp4"],
+      "card": "file:///mnt/sdcard/Oculus TV Sample Videos/Movie Trailers/Miss Peregrines Home for Peculiar Children.jpg",
+      "title": "Miss Peregrine's Home for Peculiar Children.",
+      "studio": "20th Century Fox"
+    }, {
+      "description": "From legendary director Ridley Scott (Alien, Prometheus) comes a gripping tale of human strength and the will to survive. During a mission to Mars, American astronaut Mark Watney (Matt Damon) is presumed dead and left behind. But Watney is still alive. Against all odds, he must find a way to contact Earth in the hope that scientists can devise a rescue plan to bring him home.",
+      "sources": ["file:///mnt/sdcard/Oculus TV Sample Videos/Movie Trailers/The Martian.mp4"],
+      "card": "file:///mnt/sdcard/Oculus TV Sample Videos/Movie Trailers/The Martian.jpg",
+      "vr_environment":  "file:///mnt/sdcard/moon_theater.ovrscene",
+      "title": "The Martian",
+      "studio": "20th Century Fox"
+    }, {
+      "description": "We always knew they were coming back.  After INDEPENDENCE DAY redefined the event movie genre, the next epic chapter delivers global spectacle on an unimaginable scale.  Using recovered alien technology, the nations of Earth have collaborated on an immense defense program to protect the planet.  But nothing can prepare us for the aliens' advanced and unprecedented force.  Only the ingenuity of a few brave men and women can bring our world back from the brink of extinction.",
+      "sources": ["file:///mnt/sdcard/Oculus TV Sample Videos/Movie Trailers/Independence Day Resurgence.mp4"],
+      "card": "file:///mnt/sdcard/Oculus TV Sample Videos/Movie Trailers/Independence Day Resurgence.jpg",
+      "title": "Independence Day: Resurgence",
+      "studio": "20th Century Fox"
+    }, {
+      "description": "Gerard Butler and Nikolaj Coster-Waldau star as rival gods locked in an epic battle to decide the fate of the universe in this thrilling fantasy-adventure.",
+      "sources": ["file:///mnt/sdcard/Oculus TV Sample Videos/Movie Trailers/Gods of Egypt.mp4"],
+      "card": "file:///mnt/sdcard/Oculus TV Sample Videos/Movie Trailers/Gods of Egypt.jpg",
+      "title": "Gods of Egypt",
+      "studio": "Lionsgate"
+    }, {
+      "description": "One of the most celebrated movie series of all time comes to its thrilling conclusion in the last chapter of The Hunger Games. Jennifer Lawrence stars as Katniss Everdeen, who began her journey fighting to survive the brutal Hunger Games, and rose to lead the rebellion against Panem's tyrannical president (Donald Sutherland). Now, Katniss and a team of rebels from District 13 prepare for the final epic battle that will decide Panem's future.",
+      "sources": ["file:///mnt/sdcard/Oculus TV Sample Videos/Movie Trailers/The Hunger Games Mockingjay 2.mp4"],
+      "card": "file:///mnt/sdcard/Oculus TV Sample Videos/Movie Trailers/The Hunger Games Mockingjay 2.jpg",
+      "title": "The Hunger Games: Mockingjay Part 2",
+      "studio": "Lionsgate"
+    }, {
+      "description": "Leonardo DiCaprio stars in this critically acclaimed epic adventure inspired by true events from writer-director Alejandro G. Iñárritu. While on a hunting expedition in the American wilderness, Hugh Glass (DiCaprio) is attacked by a bear and left for dead. Despite unimaginable grief and betrayal by his confidant (Tom Hardy), Glass must navigate a vicious winter in a relentless pursuit to live.",
+      "sources": ["file:///mnt/sdcard/Oculus TV Sample Videos/Movie Trailers/The Revenant.mp4"],
+      "card": "file:///mnt/sdcard/Oculus TV Sample Videos/Movie Trailers/The Revenant.jpg",
+      "title": "The Revenant",
+      "studio": "20th Century Fox"
+    }]
+  }, {
+    "category": "Game Trailers",
+    "videos": [{
+        "description": "Check out some of the exciting titles coming to the Oculus Platform in 2017!",
+        "sources": ["file:///mnt/sdcard/Oculus TV Sample Videos/Game Trailers/2017 The Year of VR Gaming.mp4"],
+        "card": "file:///mnt/sdcard/Oculus TV Sample Videos/Game Trailers/2017 The Year of VR Gaming.jpg",
+        "title": "2017: The Year of VR Gaming (Ad Test)",
+        "studio": "Oculus",
+        "ad_url": "https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/124319096/external/ad_rule_samples&ciu_szs=300x250&ad_rule=1&impl=s&gdfp_req=1&env=vp&output=vmap&unviewed_position_start=1&cust_params=deployment%3Ddevsite%26sample_ar%3Dpremidpost&cmsid=496&vid=short_onecue&correlator="
+      }, {
+        "description": "Your own ship. A crew. Steady work. Things were going well until the Collapse. Now you and half of humanity are trapped on the far side of the wormhole with ruthless pirates, scheming corporations, and worse—new threats from outside known space.",
+        "sources": ["file:///mnt/sdcard/Oculus TV Sample Videos/Game Trailers/From Other Suns.mp4"],
+        "card": "file:///mnt/sdcard/Oculus TV Sample Videos/Game Trailers/From Other Suns.jpg",
+        "title": "From Other Suns",
+        "studio": "Oculus"
+      }, {
+        "description": "Robo Recall is an action-packed virtual reality first-person shooter built by Epic Games exclusively for Oculus Touch. Explore realistic environments as an agent tasked with recalling rogue robots while unlocking an expanding arsenal of weapons.",
+        "sources": ["file:///mnt/sdcard/Oculus TV Sample Videos/Game Trailers/Robo Recall.mp4"],
+        "card": "file:///mnt/sdcard/Oculus TV Sample Videos/Game Trailers/Robo Recall.jpg",
+        "title": "Robo Recall",
+        "studio": "Oculus"
+      }, {
+        "description": "The way of battle is simple: summon the units by grabbing them with your hands. Choose your units wisely, have a strategy of your own and fight until the end. Strong units are crucial to winning the battle. Strengthen your units by training and upgrading them in the lab.",
+        "sources": ["file:///mnt/sdcard/Oculus TV Sample Videos/Game Trailers/Blade and Soul.mp4"],
+        "card": "file:///mnt/sdcard/Oculus TV Sample Videos/Game Trailers/Blade and Soul.jpg",
+        "title": "Blade & Soul",
+        "studio": "Oculus"
+      }, {
+        "description": "Brass Tactics takes real-time-strategy to the next level by placing you in the middle of the action on a fantastic clockwork battlefield.  From Hidden Path Entertainment, experience the thrill of directly moving and interacting with your clockwork creations: grab structures and place them on the battlefield, and direct your units with the sweep of your hand. Just when you think you’ve mastered the game, raise the stakes by teaming up with other players in co-op mode or go head-to-head in PvP mode.",
+        "sources": ["file:///mnt/sdcard/Oculus TV Sample Videos/Game Trailers/Brass Tactics.mp4"],
+        "card": "file:///mnt/sdcard/Oculus TV Sample Videos/Game Trailers/Brass Tactics.jpg",
+        "title": "Brass Tactics",
+        "studio": "Oculus"
+      }, {
+        "description": "Watch actual Rock Band VR gameplay.",
+        "sources": ["file:///mnt/sdcard/Oculus TV Sample Videos/Game Trailers/Rock Band VR.mp4"],
+        "card": "file:///mnt/sdcard/Oculus TV Sample Videos/Game Trailers/Rock Band VR.jpg",
+        "title": "Rock Band VR",
+        "studio": "Oculus"
+      }, {
+        "description": "Force Field VR combines third-person stealth and immersive first-person puzzle-solving in Term1nal. A skilled avatar pilot for hire, you’ll use advanced VR hardware to control androids from the safety of your apartment as you uncover a high-tech facility’s dark secrets.",
+        "sources": ["file:///mnt/sdcard/Oculus TV Sample Videos/Game Trailers/TERM1NAL.mp4"],
+        "card": "file:///mnt/sdcard/Oculus TV Sample Videos/Game Trailers/TERM1NAL.jpg",
+        "title": "TERM1NAL",
+        "studio": "Oculus"
+      }
+    ]
+  }, {
+    "category": "Developer Spotlight",
+    "videos": [{
+      "description": "Meet E McNeill, the creative mind behind Tactera and Darknet on Rift and Gear VR! See how E brings new ideas and interesting perspectives to the world of virtual reality.",
+      "sources": ["file:///mnt/sdcard/Oculus TV Sample Videos/Developer Spotlight/E McNeill.mp4"],
+      "card": "file:///mnt/sdcard/Oculus TV Sample Videos/Developer Spotlight/E McNeill.jpg",
+      "title": "E McNeill",
+      "studio": "Oculus",
+      "is_live": true
+    }, {
+      "description": "Meet Gunfire Games, the talented team behind Chronos on Rift! See how this unique team brings new ideas and interesting perspectives to the world of virtual reality.",
+      "sources": ["file:///mnt/sdcard/Oculus TV Sample Videos/Developer Spotlight/Gunfire Games.mp4"],
+      "card": "file:///mnt/sdcard/Oculus TV Sample Videos/Developer Spotlight/Gunfire Games.jpg",
+      "title": "Gunfire Games",
+	    "studio": "Oculus"
+    }, {
+      "description": "Meet Hidden Path Entertainment, the talented team behind Defense Grid 2 on Rift! See how this unique team brings new ideas and interesting perspectives to the world of virtual reality.",
+      "sources": ["file:///mnt/sdcard/Oculus TV Sample Videos/Developer Spotlight/Hidden Path Entertainment.mp4"],
+      "card": "file:///mnt/sdcard/Oculus TV Sample Videos/Developer Spotlight/Hidden Path Entertainment.jpg",
+      "title": "Hidden Path Entertainment",
+      "studio": "Oculus"
+    }, {
+      "description": "While working to bring fully immersive consumer VR to market, we were humbled by the amazing developers who put their creativity, time, and passion into making VR what it is today. Our Developer Spotlight is a great way to share fun insights with the VR community around the world.",
+      "sources": ["file:///mnt/sdcard/Oculus TV Sample Videos/Developer Spotlight/Playful and Lucky's Tale.mp4"],
+      "card": "file:///mnt/sdcard/Oculus TV Sample Videos/Developer Spotlight/Playful and Lucky's Tale.jpg",
+      "title": "Playful and Lucky's Tale",
+      "studio": "Oculus"
+    }, {
+      "description": "Meet Three One Zero, the talented team behind ADR1FT on Rift! See how this unique team brings new ideas and interesting perspectives to the world of virtual reality.",
+      "sources": ["file:///mnt/sdcard/Oculus TV Sample Videos/Developer Spotlight/Three One Zero.mp4"],
+      "card": "file:///mnt/sdcard/Oculus TV Sample Videos/Developer Spotlight/Three One Zero.jpg",
+      "title": "Three One Zero",
+      "studio": "Oculus"
+    }, {
+      "description": "Meet Tripwire Interactive, the amazing team behind Killing Floor: Incursion. Get ready to shoot and slash your way through some Zeds on August 16.",
+      "sources": ["file:///mnt/sdcard/Oculus TV Sample Videos/Developer Spotlight/Tripwire Interactive.mp4"],
+	  "card": "file:///mnt/sdcard/Oculus TV Sample Videos/Developer Spotlight/Tripwire Interactive.jpg",
+      "title": "Tripwire Interactive",
+      "studio": "Oculus"
+    }, {
+      "description": "Meet Turbo Button, the talented team behind Adventure Time: Magic Man's Head Games and the newly released Floor Plan on Rift & Gear VR. See how this unique team brings new ideas and interesting perspectives to the world of virtual reality.",
+      "sources": ["file:///mnt/sdcard/Oculus TV Sample Videos/Developer Spotlight/Turbo Button.mp4"],
+      "card": "file:///mnt/sdcard/Oculus TV Sample Videos/Developer Spotlight/Turbo Button.jpg",
+      "title": "Turbo Button",
+      "studio": "Oculus"
+    }]
+  }, {
+    "category": "Oculus Connect 4",
+    "videos": [{
+      "description": "The exciting new category of Standalone VR comes with both opportunities and challenges alike. Oculus product management and development discuss the current state of the hardware, plus how the Oculus team’s work in research, prototyping, vision, and more have all contributed to making it a reality. Learn how to build your own experiences for the next wave of VR hardware.",
+      "sources": ["file:///mnt/sdcard/Oculus TV Sample Videos/Oculus Connect 4/State of Standalone VR.mp4"],
+      "card": "file:///mnt/sdcard/Oculus TV Sample Videos/Oculus Connect 4/State of Standalone VR.jpg",
+      "title": "State of Standalone VR (Auth Reqd test)",
+      "studio": "Oculus",
+      "is_auth_required": true
+    }, {
+      "description": "Controlling your system inside VR presents unique challenges. We’ve learned a lot from building VR interfaces, seeing how people use them, and discovering what else they’d like to do. Hear directly from the Oculus PC VR team and learn how to apply these best practices to your own UI and UX challenges in VR.",
+      "sources": ["file:///mnt/sdcard/Oculus TV Sample Videos/Oculus Connect 4/Dash.mp4"],
+      "ad_sources": ["file:///mnt/sdcard/Oculus TV Sample Videos/Movie Trailers/Deadpool.mp4"],
+      "ad_timestamps": [15000],
+      "card": "file:///mnt/sdcard/Oculus TV Sample Videos/Oculus Connect 4/Dash.jpg",
+      "title": "Dash (Ad test)",
+      "studio": "Oculus"
+    }, {
+      "description": "VR for Good lets people learn about, understand, and experience things that they've never been exposed to before. Our program strives to push VR to new artistic heights while providing a safe space to explore controversial and timely issues. Not only does this help developers find opportunities for work while supporting nonprofits, it also gives the broader public more reasons to dive into VR. Learn how the industry is giving back and how gamification can be successfully applied in fields beyond entertainment to connect people and transform lives for the better.",
+      "sources": ["file:///mnt/sdcard/Oculus TV Sample Videos/Oculus Connect 4/VR for Good.mp4"],
+      "card": "file:///mnt/sdcard/Oculus TV Sample Videos/Oculus Connect 4/VR for Good.jpg",
+      "title": "VR for Good",
+      "studio": "Oculus"
+    }, {
+      "description": "What kind of impression do you want to leave on your consumers? Do this thoughtfully and they'll never forget you. Learn some of the best ways to build memorable human impact into your work so people will come back to experience the magic again and again. We'll cover some best practices and also lean into how to show off your personality, smooth out consumer pain points, and more in VR.",
+      "sources": ["file:///mnt/sdcard/Oculus TV Sample Videos/Oculus Connect 4/Relationships Matter.mp4"],
+      "card": "file:///mnt/sdcard/Oculus TV Sample Videos/Oculus Connect 4/Relationships Matter.jpg",
+      "title": "Relationships Matter",
+      "studio": "Oculus"
+    }, {
+      "description": "Engineers from NVIDIA and Oculus are working together to create tools for making the best VR experiences possible. Everything from haptics, physics, graphics, and audio come into play when building a compelling VR experience. In this talk, we'll discuss VRWorks Audio and Graphics features like LMS, SPS, MRS, and VR SLI, which can be used to improve performance and bring a new level of visual fidelity, performance, and responsiveness to your VR game or application.",
+      "sources": ["file:///mnt/sdcard/Oculus TV Sample Videos/Oculus Connect 4/Optimizing for Immersion.mp4"],
+      "card": "file:///mnt/sdcard/Oculus TV Sample Videos/Oculus Connect 4/Optimizing for Immersion.jpg",
+      "title": "Optimizing for Immersion",
+      "studio": "Oculus"
+    }]
+  }]
+}
