@@ -7,7 +7,8 @@
         "sources": ["http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_60fps_stereo_abl.mp4"],
         "card": "file:///mnt/sdcard/Oculus TV Sample Videos/Movie Trailers/Deadpool.jpg",
         "title": "Big Buck Bunny(3D)",
-        "studio": "Blender Foundation"
+        "studio": "Blender Foundation",
+        "stereo_type": 2
       }]
     },
     {
